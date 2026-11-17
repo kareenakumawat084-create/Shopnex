@@ -6,7 +6,7 @@ const Bata = () => {
     return (
         <>
             <br />
-            <Header1 />
+            <HSeteader1 />
             <div style={{ marginTop: "60px" }}></div>
 
             <div>
