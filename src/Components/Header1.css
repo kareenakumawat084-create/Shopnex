@@ -1,0 +1,83 @@
+.w-10{
+    width: 110px; 
+    height: 50px;
+    margin-bottom: 8px;
+    margin-top: 5px;
+
+}
+.w-5{
+    width: 25px;
+    height: 25px;
+}
+.w-1{
+    width: 600px;
+    height:35px;  
+}
+.ms-3{
+    width: 300px;
+}
+.color {
+  background-color: white;
+  text-decoration: none;
+  border: none;
+
+
+}
+
+.color:hover {
+
+  text-decoration: none;
+  border: none;
+
+}
+
+.input {
+  border: none;
+
+
+}
+
+input:focus {
+  outline: none;
+  /* Removes the focus outline */
+}
+
+input[type="text"],
+input[type="password"] {
+  border: none;
+  outline: none;
+}
+.w-15{
+    width: 10px;
+    height: 10px;
+}
+.fs-15{
+    font-size: 15px;
+}
+
+.text-bg-lightblue{
+    background-color: lightblue;
+}
+.fs-27{
+  font-size: 27px;
+}
+.text-blueviolet{
+  color: rgb(47, 1, 91);
+}
+.border-orangered{
+  border-color: rgb(229, 124, 86) ;
+  background-color: rgb(229, 124, 86);
+}
+.text-bg-green{
+  background-color: rgb(61, 169, 61);
+}
+.c1{
+  text-decoration: none;
+}
+.c1:hover{
+  text-decoration: underline rgb(47, 1, 91);
+}
+.card:hover{
+ transform: scale(1.1);
+ transition: 1s;
+}

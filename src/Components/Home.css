@@ -1,0 +1,157 @@
+.gap-10{
+    gap:80px;
+}
+.border-lightblue{
+    border: 1px solid rgb(193, 231, 244);
+    background-color: rgb(193, 231, 244);
+}
+.z2{
+width: 150px;
+height: 130px;
+margin-top: 130px;
+}
+.z2:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+.mt-60{
+    margin-top: -61px;
+    margin-left: 10px;
+}
+.mt-80{
+    margin-top: -82px;
+    margin-left: -7px;
+}
+.mt-40{
+    margin-top: -40px;
+    margin-left: 10px;
+}
+.mt-10{
+    margin-top: -6px;
+    margin-left: -5px;
+}
+.mt-30{
+    margin-top: -10px;
+}
+.mt-70{
+    margin-top: 70px;
+}
+.fs-80{
+     font-size: 80px;
+     margin-top: -10px;
+}
+.mt-15{
+    margin-top:-15px;
+    margin-left:-14px
+}
+.mt-160{
+    margin-top: -10px;
+}
+.w-20{
+    width: 110px;
+    height: 40px;
+    background-color: white;
+    border: none;   
+}
+.w-15{
+    width: 10px;
+    height: 10px;
+}
+.fs-15{
+    font-size: 15px;
+}
+.me-4{
+    margin-left: 50px;
+}
+.fs-140{
+    color: white;
+    font-size: 140px;
+    margin-left: 60px;
+    margin-top: -20px;
+}
+.mt-25{
+     margin-top:-25px;
+     margin-left:-14px
+}
+.card:hover{
+     transform: scale(1.1);
+    transition: 1s;
+}
+.card{
+    width: 250px;
+}
+
+.d1{
+     border:none;
+     padding: 10px;
+}
+.d1:hover{
+    background-color: #FFBB6E ;
+    border: none;
+}
+.e1{
+    background: linear-gradient(to bottom,#FFFFFF,#FFDBB1,#FFCA8D,#FFBB6E);
+    box-shadow: 6px 6px #F29F3F;
+    
+}
+.bg-orange{
+    background-color: #FFBB6E;
+    border: none;
+}
+.bg-orange:hover{
+    background-color: white;
+}
+.border-orangered{
+  border-color: rgb(229, 124, 86) ;
+  background-color: rgb(229, 124, 86);
+}
+.text-bg-green{
+  background-color: rgb(61, 169, 61);
+}
+body{
+    overflow-x: hidden;
+}
+.div1{
+     background-image: url('kkareena.jpg');
+     height: 300px;
+}
+.card1{
+   background: linear-gradient(to bottom,#000000,#0C0425);
+}
+.y1{
+    background-color: white;
+    color: #180653;
+    border: none;
+}
+.y1:hover{
+    background-color: #180653;
+    color: white;
+    border:none;
+}
+.div1:hover{
+    transform: scale(1.1);
+    transition: 1s; 
+}
+.ms-170{
+    margin-left:200px; 
+    width: 1100px;
+    padding: 10px;
+}
+.ms-190{
+    margin-left: 160px;
+    margin-top: -15px;
+}
+.ms-35{
+    margin-left: 35px;
+    width: 130px;
+    height: 30px;
+}
+.ms-57{
+    margin-left: 57px;
+    width: 90px;
+    height: 30px;
+}
+.gap{
+    gap: 100px;
+}
+

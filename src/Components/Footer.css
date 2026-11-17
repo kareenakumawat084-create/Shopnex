@@ -1,0 +1,22 @@
+.card1{
+   background: linear-gradient(to bottom,#000000,#0C0425);
+}
+.h-410{
+    height:410px;
+}
+.ms-500{
+ margin-left:500px;
+ gap:200px;
+ margin-top:-20px
+}
+.mt-20{
+    margin-top: 20px;
+    margin-left: 1150px;
+}
+
+.k1{
+    list-style-type: none;    
+}
+.fw-medium{
+    margin-left: 640px;
+}

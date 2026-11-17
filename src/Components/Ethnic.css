@@ -1,0 +1,27 @@
+.fs-27{
+  font-size: 27px;
+}
+.text-blueviolet{
+  color: rgb(47, 1, 91);
+}
+.ms-13{
+  margin-left: 13px;
+}
+.border-orangered{
+  border-color: rgb(229, 124, 86) ;
+  background-color: rgb(229, 124, 86);
+}
+.text-bg-green{
+  background-color: rgb(61, 169, 61);
+}
+.c1{
+  text-decoration: none;
+}
+.c1:hover{
+  text-decoration: underline rgb(47, 1, 91);
+
+}
+.card:hover{
+ transform: scale(1.1);
+ transition: 1s;
+}
