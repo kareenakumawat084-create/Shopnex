@@ -24,7 +24,7 @@ const Beauty = () => {
                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Forever Foundation</h5>
                                 <div className="d-flex ms-5 gap-0">
                                     <img style={{marginTop: "-3.5px"}}
-                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                        src="/591777-200-removebg-preview.png" width="33px"
                                         height="33px"/>
                                         <h5>800.00</h5>
                                 </div>
@@ -50,7 +50,7 @@ const Beauty = () => {
                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Compact Powder</h5>
                                 <div className="d-flex ms-5 gap-0">
                                     <img style={{marginTop: "-3.5px"}}
-                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                        src="/591777-200-removebg-preview.png" width="33px"
                                         height="33px"/>
                                         <h5>900.00</h5>
                                 </div>
@@ -76,7 +76,7 @@ const Beauty = () => {
                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Fitme Liq Foundation</h5>
                                 <div className="d-flex ms-5 gap-0">
                                     <img style={{marginTop: "-3.5px"}}
-                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                        src="/591777-200-removebg-preview.png" width="33px"
                                         height="33px"/>
                                         <h5>600.00</h5>
                                 </div>
@@ -102,7 +102,7 @@ const Beauty = () => {
                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Iba Foundation</h5>
                                 <div className="d-flex ms-5 gap-0">
                                     <img style={{marginTop: "-3.5px"}}
-                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                        src="/591777-200-removebg-preview.png" width="33px"
                                         height="33px"/>
                                         <h5>1100.00</h5>
                                 </div>
@@ -132,7 +132,7 @@ const Beauty = () => {
                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Swiss Beauty Mascara</h5>
                                     <div className="d-flex ms-5 gap-0">
                                         <img style={{marginTop: "-3.5px"}}
-                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                            src="/591777-200-removebg-preview.png" width="33px"
                                             height="33px"/>
                                             <h5>2500.00</h5>
                                     </div>
@@ -158,7 +158,7 @@ const Beauty = () => {
                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Insight Mascara</h5>
                                     <div className="d-flex ms-5 gap-0">
                                         <img style={{marginTop: "-3.5px"}}
-                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                            src="/591777-200-removebg-preview.png" width="33px"
                                             height="33px"/>
                                             <h5>1000.00</h5>
                                     </div>
@@ -184,7 +184,7 @@ const Beauty = () => {
                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Max Factor Mascara</h5>
                                     <div className="d-flex ms-5 gap-0">
                                         <img style={{marginTop: "-3.5px"}}
-                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                            src="/591777-200-removebg-preview.png" width="33px"
                                             height="33px"/>
                                             <h5>700.00</h5>
                                     </div>
@@ -209,7 +209,7 @@ const Beauty = () => {
                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">10 Color Mascara</h5>
                                     <div className="d-flex ms-5 gap-0">
                                         <img style={{marginTop: "-3.5px"}}
-                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                            src="/591777-200-removebg-preview.png" width="33px"
                                             height="33px"/>
                                             <h5>1500.00</h5>
                                     </div>
@@ -239,7 +239,7 @@ const Beauty = () => {
                                         <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Swiss Beauty Lipstick</h5>
                                         <div className="d-flex ms-5 gap-0">
                                             <img style={{marginTop: "-3.5px"}}
-                                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                                src="/591777-200-removebg-preview.png" width="33px"
                                                 height="33px"/>
                                                 <h5>800.00</h5>
                                         </div>
@@ -265,7 +265,7 @@ const Beauty = () => {
                                         <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Non Transfer Lipstick</h5>
                                         <div className="d-flex ms-5 gap-0">
                                             <img style={{marginTop: "-3.5px"}}
-                                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                                src="/591777-200-removebg-preview.png" width="33px"
                                                 height="33px"/>
                                                 <h5>1600.00</h5>
                                         </div>
@@ -290,7 +290,7 @@ const Beauty = () => {
                                         <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Iba Solid Liptick</h5>
                                         <div className="d-flex ms-5 gap-0">
                                             <img style={{marginTop: "-3.5px"}}
-                                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                                src="/591777-200-removebg-preview.png" width="33px"
                                                 height="33px"/>
                                                 <h5>1950.00</h5>
                                         </div>
@@ -315,7 +315,7 @@ const Beauty = () => {
                                         <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Renee Solid Lipstick</h5>
                                         <div className="d-flex ms-5 gap-0">
                                             <img style={{marginTop: "-3.5px"}}
-                                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                                src="/591777-200-removebg-preview.png" width="33px"
                                                 height="33px"/>
                                                 <h5>2350.00</h5>
                                         </div>
@@ -346,7 +346,7 @@ const Beauty = () => {
                                             <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Lakme Eyeconic Eyeliner</h5>
                                             <div className="d-flex ms-5 gap-0">
                                                 <img style={{marginTop: "-3.5px"}}
-                                                    src="/public\591777-200-removebg-preview.png" width="33px"
+                                                    src="/591777-200-removebg-preview.png" width="33px"
                                                     height="33px"/>
                                                     <h5>1050.00</h5>
                                             </div>
@@ -372,7 +372,7 @@ const Beauty = () => {
                                             <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Glass Liner</h5>
                                             <div className="d-flex ms-5 gap-0">
                                                 <img style={{marginTop: "-3.5px"}}
-                                                    src="/public\591777-200-removebg-preview.png" width="33px"
+                                                    src="/591777-200-removebg-preview.png" width="33px"
                                                     height="33px"/>
                                                     <h5>900.00</h5>
                                             </div>
@@ -397,7 +397,7 @@ const Beauty = () => {
                                             <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3"> Glass Liner</h5>
                                             <div className="d-flex ms-5 gap-0">
                                                 <img style={{marginTop: "-3.5px"}}
-                                                    src="/public\591777-200-removebg-preview.png" width="33px"
+                                                    src="/591777-200-removebg-preview.png" width="33px"
                                                     height="33px"/>
                                                     <h5>1100.00</h5>
                                             </div>
@@ -423,7 +423,7 @@ const Beauty = () => {
                                             <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Maliao Eyeliner</h5>
                                             <div className="d-flex ms-5 gap-0">
                                                 <img style={{marginTop: "-3.5px"}}
-                                                    src="/public\591777-200-removebg-preview.png" width="33px"
+                                                    src="/591777-200-removebg-preview.png" width="33px"
                                                     height="33px"/>
                                                     <h5>1000.00</h5>
                                             </div>
@@ -454,7 +454,7 @@ const Beauty = () => {
                                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">La Mujar Eyeliner</h5>
                                                 <div className="d-flex ms-5 gap-0">
                                                     <img style={{marginTop: "-3.5px"}}
-                                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                                        src="/591777-200-removebg-preview.png" width="33px"
                                                         height="33px"/>
                                                         <h5>1500.00</h5>
                                                 </div>
@@ -479,7 +479,7 @@ const Beauty = () => {
                                                 <h5 style={{fontWeight: "bolder"}}className="text-secondary text-center mt-3">Power Grip Primer</h5>
                                                 <div className="d-flex ms-5 gap-0">
                                                     <img style={{marginTop: "-3.5px"}}
-                                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                                        src="/591777-200-removebg-preview.png" width="33px"
                                                         height="33px"/>
                                                         <h5>1200.00</h5>
                                                 </div>
@@ -504,7 +504,7 @@ const Beauty = () => {
                                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Fitme Primer</h5>
                                                 <div className="d-flex ms-5 gap-0">
                                                     <img style={{marginTop: "-3.5px"}}
-                                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                                        src="/591777-200-removebg-preview.png" width="33px"
                                                         height="33px"/>
                                                         <h5>800.00</h5>
                                                 </div>
@@ -529,7 +529,7 @@ const Beauty = () => {
                                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Glam21 Primer</h5>
                                                 <div className="d-flex ms-5 gap-0">
                                                     <img style={{marginTop: "-3.5px"}}
-                                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                                        src="/591777-200-removebg-preview.png" width="33px"
                                                         height="33px"/>
                                                         <h5>700.00</h5>
                                                 </div>
@@ -560,7 +560,7 @@ const Beauty = () => {
                                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Poreless Primer</h5>
                                                     <div className="d-flex ms-5 gap-0">
                                                         <img style={{marginTop: "-3.5px"}}
-                                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                                            src="/591777-200-removebg-preview.png" width="33px"
                                                             height="33px"/>
                                                             <h5>1400.00</h5>
                                                     </div>
@@ -586,7 +586,7 @@ const Beauty = () => {
                                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Renee Makeup Fixer</h5>
                                                     <div className="d-flex ms-5 gap-0">
                                                         <img style={{marginTop: "-3.5px"}}
-                                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                                            src="/591777-200-removebg-preview.png" width="33px"
                                                             height="33px"/>
                                                             <h5>700.00</h5>
                                                     </div>
@@ -612,7 +612,7 @@ const Beauty = () => {
                                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Lakme Makeup Spray</h5>
                                                     <div className="d-flex ms-5 gap-0">
                                                         <img style={{marginTop: "-3.5px"}}
-                                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                                            src="/591777-200-removebg-preview.png" width="33px"
                                                             height="33px"/>
                                                             <h5>600.00</h5>
                                                     </div>
@@ -638,7 +638,7 @@ const Beauty = () => {
                                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Sea-lit Fixing Spray</h5>
                                                     <div className="d-flex ms-5 gap-0">
                                                         <img style={{marginTop: "-3.5px"}}
-                                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                                            src="/591777-200-removebg-preview.png" width="33px"
                                                             height="33px"/>
                                                             <h5>500.00</h5>
                                                     </div>
