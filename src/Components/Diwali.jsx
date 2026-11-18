@@ -24,7 +24,7 @@ const Diwali = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Washing Machine</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>800.00</h5>
                         </div>
@@ -50,7 +50,7 @@ const Diwali = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">LG Freeze</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>900.00</h5>
                         </div>
@@ -76,7 +76,7 @@ const Diwali = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Atta Knead Machine</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>600.00</h5>
                         </div>
@@ -102,7 +102,7 @@ const Diwali = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Mixer Grinder</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1100.00</h5>
                         </div>
@@ -132,7 +132,7 @@ const Diwali = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">70 XL Air Cooler</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>2500.00</h5>
                         </div>
@@ -158,7 +158,7 @@ const Diwali = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Ai Split AC</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1000.00</h5>
                         </div>
@@ -184,7 +184,7 @@ const Diwali = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Roti Machine</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>700.00</h5>
                         </div>
@@ -209,7 +209,7 @@ const Diwali = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Water Cooler</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1500.00</h5>
                         </div>
@@ -239,7 +239,7 @@ const Diwali = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Exhaust Fan</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>800.00</h5>
                         </div>
@@ -265,7 +265,7 @@ const Diwali = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Table Fan</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1600.00</h5>
                         </div>
@@ -290,7 +290,7 @@ const Diwali = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Ceiling Fan</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1950.00</h5>
                         </div>
@@ -315,7 +315,7 @@ const Diwali = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Hair Straightener</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>2350.00</h5>
                         </div>
@@ -346,7 +346,7 @@ const Diwali = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Pizza Oven</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1050.00</h5>
                         </div>
@@ -372,7 +372,7 @@ const Diwali = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Dhokla Cooker</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>900.00</h5>
                         </div>
@@ -397,7 +397,7 @@ const Diwali = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Hand Blender</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1100.00</h5>
                         </div>
@@ -423,7 +423,7 @@ const Diwali = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Tea Kettle</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1000.00</h5>
                         </div>
