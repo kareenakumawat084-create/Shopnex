@@ -24,7 +24,7 @@ const Ethnic = () => {
                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Kurta Palazzo</h5>
                                 <div className="d-flex ms-5 gap-0">
                                     <img style={{marginTop: "-3.5px"}}
-                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                        src="/591777-200-removebg-preview.png" width="33px"
                                         height="33px"/>
                                         <h5>800.00</h5>
                                 </div>
@@ -50,7 +50,7 @@ const Ethnic = () => {
                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Georgette Maxi</h5>
                                 <div className="d-flex ms-5 gap-0">
                                     <img style={{marginTop: "-3.5px"}}
-                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                        src="/591777-200-removebg-preview.png" width="33px"
                                         height="33px"/>
                                         <h5>900.00</h5>
                                 </div>
@@ -76,7 +76,7 @@ const Ethnic = () => {
                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Kurta Pant Set</h5>
                                 <div className="d-flex ms-5 gap-0">
                                     <img style={{marginTop: "-3.5px"}}
-                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                        src="/591777-200-removebg-preview.png" width="33px"
                                         height="33px"/>
                                         <h5>600.00</h5>
                                 </div>
@@ -102,7 +102,7 @@ const Ethnic = () => {
                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Anarkali Suit</h5>
                                 <div className="d-flex ms-5 gap-0">
                                     <img style={{marginTop: "-3.5px"}}
-                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                        src="/591777-200-removebg-preview.png" width="33px"
                                         height="33px"/>
                                         <h5>1100.00</h5>
                                 </div>
@@ -132,7 +132,7 @@ const Ethnic = () => {
                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Lehenga Choli</h5>
                                     <div className="d-flex ms-5 gap-0">
                                         <img style={{marginTop: "-3.5px"}}
-                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                            src="/591777-200-removebg-preview.png" width="33px"
                                             height="33px"/>
                                             <h5>2500.00</h5>
                                     </div>
@@ -158,7 +158,7 @@ const Ethnic = () => {
                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Crop-top Palazzo</h5>
                                     <div className="d-flex ms-5 gap-0">
                                         <img style={{marginTop: "-3.5px"}}
-                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                            src="/591777-200-removebg-preview.png" width="33px"
                                             height="33px"/>
                                             <h5>1000.00</h5>
                                     </div>
@@ -184,7 +184,7 @@ const Ethnic = () => {
                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Gulbahar Kurti Set</h5>
                                     <div className="d-flex ms-5 gap-0">
                                         <img style={{marginTop: "-3.5px"}}
-                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                            src="/591777-200-removebg-preview.png" width="33px"
                                             height="33px"/>
                                             <h5>700.00</h5>
                                     </div>
@@ -209,7 +209,7 @@ const Ethnic = () => {
                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Designer Dress</h5>
                                     <div className="d-flex ms-5 gap-0">
                                         <img style={{marginTop: "-3.5px"}}
-                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                            src="/591777-200-removebg-preview.png" width="33px"
                                             height="33px"/>
                                             <h5>1500.00</h5>
                                     </div>
@@ -239,7 +239,7 @@ const Ethnic = () => {
                                         <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Frill Dress</h5>
                                         <div className="d-flex ms-5 gap-0">
                                             <img style={{marginTop: "-3.5px"}}
-                                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                                src="/591777-200-removebg-preview.png" width="33px"
                                                 height="33px"/>
                                                 <h5>800.00</h5>
                                         </div>
@@ -265,7 +265,7 @@ const Ethnic = () => {
                                         <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Flared Maxi</h5>
                                         <div className="d-flex ms-5 gap-0">
                                             <img style={{marginTop: "-3.5px"}}
-                                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                                src="/591777-200-removebg-preview.png" width="33px"
                                                 height="33px"/>
                                                 <h5>1600.00</h5>
                                         </div>
@@ -290,7 +290,7 @@ const Ethnic = () => {
                                         <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Designer Full Gown</h5>
                                         <div className="d-flex ms-5 gap-0">
                                             <img style={{marginTop: "-3.5px"}}
-                                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                                src="/591777-200-removebg-preview.png" width="33px"
                                                 height="33px"/>
                                                 <h5>1950.00</h5>
                                         </div>
@@ -315,7 +315,7 @@ const Ethnic = () => {
                                         <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Ghagra Choli</h5>
                                         <div className="d-flex ms-5 gap-0">
                                             <img style={{marginTop: "-3.5px"}}
-                                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                                src="/591777-200-removebg-preview.png" width="33px"
                                                 height="33px"/>
                                                 <h5>2350.00</h5>
                                         </div>
@@ -346,7 +346,7 @@ const Ethnic = () => {
                                             <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Anarkali Suit Pattern</h5>
                                             <div className="d-flex ms-5 gap-0">
                                                 <img style={{marginTop: "-3.5px"}}
-                                                    src="/public\591777-200-removebg-preview.png" width="33px"
+                                                    src="/591777-200-removebg-preview.png" width="33px"
                                                     height="33px"/>
                                                     <h5>1050.00</h5>
                                             </div>
@@ -372,7 +372,7 @@ const Ethnic = () => {
                                             <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Flared Set</h5>
                                             <div className="d-flex ms-5 gap-0">
                                                 <img style={{marginTop: "-3.5px"}}
-                                                    src="/public\591777-200-removebg-preview.png" width="33px"
+                                                    src="/591777-200-removebg-preview.png" width="33px"
                                                     height="33px"/>
                                                     <h5>900.00</h5>
                                             </div>
@@ -397,7 +397,7 @@ const Ethnic = () => {
                                             <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3"> Long Ethnic Dress</h5>
                                             <div className="d-flex ms-5 gap-0">
                                                 <img style={{marginTop: "-3.5px"}}
-                                                    src="/public\591777-200-removebg-preview.png" width="33px"
+                                                    src="/591777-200-removebg-preview.png" width="33px"
                                                     height="33px"/>
                                                     <h5>1100.00</h5>
                                             </div>
@@ -423,7 +423,7 @@ const Ethnic = () => {
                                             <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Full Cover Gown</h5>
                                             <div className="d-flex ms-5 gap-0">
                                                 <img style={{marginTop: "-3.5px"}}
-                                                    src="/public\591777-200-removebg-preview.png" width="33px"
+                                                    src="/591777-200-removebg-preview.png" width="33px"
                                                     height="33px"/>
                                                     <h5>1000.00</h5>
                                             </div>
@@ -454,7 +454,7 @@ const Ethnic = () => {
                                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Lehenga Set</h5>
                                                 <div className="d-flex ms-5 gap-0">
                                                     <img style={{marginTop: "-3.5px"}}
-                                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                                        src="/591777-200-removebg-preview.png" width="33px"
                                                         height="33px"/>
                                                         <h5>1500.00</h5>
                                                 </div>
@@ -479,7 +479,7 @@ const Ethnic = () => {
                                                 <h5 style={{fontWeight: "bolder"}}className="text-secondary text-center mt-3">Designer Suit</h5>
                                                 <div className="d-flex ms-5 gap-0">
                                                     <img style={{marginTop: "-3.5px"}}
-                                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                                        src="/591777-200-removebg-preview.png" width="33px"
                                                         height="33px"/>
                                                         <h5>1200.00</h5>
                                                 </div>
@@ -504,7 +504,7 @@ const Ethnic = () => {
                                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Long Flared Dress</h5>
                                                 <div className="d-flex ms-5 gap-0">
                                                     <img style={{marginTop: "-3.5px"}}
-                                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                                        src="/591777-200-removebg-preview.png" width="33px"
                                                         height="33px"/>
                                                         <h5>800.00</h5>
                                                 </div>
@@ -529,7 +529,7 @@ const Ethnic = () => {
                                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Frill Suit</h5>
                                                 <div className="d-flex ms-5 gap-0">
                                                     <img style={{marginTop: "-3.5px"}}
-                                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                                        src="/591777-200-removebg-preview.png" width="33px"
                                                         height="33px"/>
                                                         <h5>700.00</h5>
                                                 </div>
@@ -560,7 +560,7 @@ const Ethnic = () => {
                                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Designer Full Gown</h5>
                                                     <div className="d-flex ms-5 gap-0">
                                                         <img style={{marginTop: "-3.5px"}}
-                                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                                            src="/591777-200-removebg-preview.png" width="33px"
                                                             height="33px"/>
                                                             <h5>1400.00</h5>
                                                     </div>
@@ -586,7 +586,7 @@ const Ethnic = () => {
                                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Designer Lehenga</h5>
                                                     <div className="d-flex ms-5 gap-0">
                                                         <img style={{marginTop: "-3.5px"}}
-                                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                                            src="/591777-200-removebg-preview.png" width="33px"
                                                             height="33px"/>
                                                             <h5>700.00</h5>
                                                     </div>
@@ -612,7 +612,7 @@ const Ethnic = () => {
                                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Trending Cut Dress</h5>
                                                     <div className="d-flex ms-5 gap-0">
                                                         <img style={{marginTop: "-3.5px"}}
-                                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                                            src="/591777-200-removebg-preview.png" width="33px"
                                                             height="33px"/>
                                                             <h5>600.00</h5>
                                                     </div>
@@ -638,7 +638,7 @@ const Ethnic = () => {
                                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Flawless Set</h5>
                                                     <div className="d-flex ms-5 gap-0">
                                                         <img style={{marginTop: "-3.5px"}}
-                                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                                            src="/591777-200-removebg-preview.png" width="33px"
                                                             height="33px"/>
                                                             <h5>500.00</h5>
                                                     </div>
