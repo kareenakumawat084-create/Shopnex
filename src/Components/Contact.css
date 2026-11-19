@@ -1,0 +1,56 @@
+.bg-image {
+  background-image: url(/contact.jpg);
+  background-size: cover;
+  height: 97vh;
+  background-repeat: no-repeat;
+
+}
+.ml-41 {
+  background-image: linear-gradient(to bottom, rgb(146, 203, 241), white);
+  margin-left: 410px;
+  width: 530px;
+  height: 390px;
+}
+.a {
+  text-decoration: none;
+}
+.a:hover {
+  text-decoration: underline;
+}
+
+.me-60 {
+  margin-left: 60px;
+}
+.w-410 {
+  outline: none;
+  width: 410px;
+  height: 40px;
+  border: 2px solid rgb(78, 165, 223);
+}
+
+.h-80 {
+  outline: none;
+  height: 80px;
+  width: 410px;
+  border: 2px solid rgb(78, 165, 223);
+}
+
+.me-170 {
+  margin-left: 170px;
+}
+
+.w-200 {
+  height: 40px;
+  border: 2px solid rgb(78, 165, 223);
+  outline: none;
+}
+
+.bg-green {
+  background-color: rgb(28, 99, 230);
+  height: 35px;
+  border: none;
+}
+
+.bg-green:hover {
+  background-color: rgb(51, 2, 97);
+}

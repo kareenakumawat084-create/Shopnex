@@ -1,0 +1,11 @@
+/* .border {
+    height: 500px;
+} */
+.hr {
+    width: 80px;
+    height: 1px;
+    background-color: black;
+}
+.bg-purple1 {
+    background-color: purple;
+}

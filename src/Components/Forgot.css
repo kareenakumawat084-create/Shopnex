@@ -1,0 +1,6 @@
+.bg-purple{
+    background-color: rgb(46, 6, 83);
+}
+.bg-purple:hover{
+    background-color: rgb(107, 134, 207);
+}

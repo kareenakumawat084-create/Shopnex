@@ -1,0 +1,64 @@
+.bg {
+    background-image: url(/aa.jpg);
+    background-size: cover;
+    height: 95vh;
+    background-repeat: no-repeat;
+}
+.ms-4 {
+    color: rgb(27, 138, 138);
+}
+.mt-30 {
+    margin-top: -10px;
+    color: rgb(2, 32, 22);
+}
+.border1 {
+    border: 1px rgb(19, 160, 160);
+    width: 130px;
+    height: 40px;
+    background-color: rgb(114, 211, 216);
+
+}
+.border1:hover {
+    background-color: cadetblue;
+}
+
+.ms-18 {
+    margin-top: 160px;
+    width: 1330px;
+    height: 90px;
+}
+
+.mt-15 {
+    font-weight: lighter;
+    margin-top: -15px;
+}
+
+.h-150 {
+    height: 150px;
+    margin-top: -50px;
+}
+
+.mt-1 {
+    width: 120px;
+    height: 35px;
+    border: none;
+}
+
+.mt-1:hover {
+    background-color: rgb(2, 52, 75);
+    color: white;
+}
+
+
+.w-60 {
+    width: 60px;
+}
+
+.mt-20 {
+    margin-top: -10px;
+}
+
+.mt-15:hover {
+    transform: scale(1.2);
+    transition: 1s;
+}

@@ -1,0 +1,13 @@
+.bg1{
+    margin-inline: 150px;
+}
+.b{
+    background-image: url(/bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: 1200px;
+    height: 16vh;
+    color:white;
+}
+.text{
+    color: rgb(177, 102, 248);
+}

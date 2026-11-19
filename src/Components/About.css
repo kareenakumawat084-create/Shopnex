@@ -1,0 +1,27 @@
+.bg-green {
+    background-color: rgb(91, 236, 236);
+    width: 140px;
+    height: 40px;
+}
+
+.mt-10 {
+    margin-top: 130px;
+}
+
+.gap-10 {
+    gap: 150px;
+}
+
+.h-50 {
+    width: 4700px;
+}
+
+.bg-j {
+    background-color: rgb(184, 220, 221);
+}
+
+.color {
+    background-color: rgb(91, 236, 236);
+    width: 140px;
+    height: 40px;
+}

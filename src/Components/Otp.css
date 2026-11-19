@@ -1,0 +1,54 @@
+.a1 {
+    background-image: linear-gradient(to bottom, rgb(158, 216, 243), rgb(155, 141, 141));
+    background-repeat: no-repeat;
+    height: 600px;
+    background-size: cover;
+
+}
+
+.mt-5 {
+    background-image: linear-gradient(to bottom, rgb(139, 177, 238), white);
+    height: 500px;
+    width: 450px;
+
+}
+
+.fs-5 {
+    margin-top: -105px;
+}
+
+.fs-5:hover {
+    text-decoration: none;
+}
+
+.a4 {
+    background-image: linear-gradient(to bottom, #b5cef5, white);
+    /* border-radius: 9px; */
+    /* border-color: 9999d6; */
+    border-color: aqua;
+    width: 40px;
+    height: 40px;
+}
+
+.a5 {
+    margin-inline: 30px;
+}
+
+.a7 {
+    background-color: rgb(35, 84, 184);
+    width: 350px;
+    height: 40px;
+}
+
+.a7:hover {
+    background-color: blue;
+    text-decoration: underline;
+}
+
+.w-290 {
+    width: 290px;
+    margin-top: -80px;
+}
+.border-patinate-blue {
+    border: 10px solid #9999d6;
+}

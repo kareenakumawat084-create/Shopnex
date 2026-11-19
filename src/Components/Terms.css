@@ -1,0 +1,20 @@
+.ab{
+    margin-inline: 150px;
+}
+.text-purple{
+    color: rgb(62, 3, 117);
+}
+.text-blu{
+    color: rgb(25, 95, 175);
+}
+.w-40{
+    height: 38px;
+    width: 550px;
+    outline: none;
+}
+.card1{
+   background: linear-gradient(to bottom,#000000,#0C0425);
+}
+.underline:hover{
+    text-decoration: underline;
+}

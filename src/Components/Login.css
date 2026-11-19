@@ -1,0 +1,27 @@
+
+.ms-10{
+    margin-left: 110px;
+}
+.text-blue{
+    color: rgb(2, 2, 70);
+}
+.text-lightblue{
+    color: rgb(43, 83, 190);
+}
+.bg-light1{
+    background-color:rgb(172, 184, 206) ;
+    height: 610px;
+}
+.bg-purple{
+    background-color: rgb(1, 1, 71);
+}
+.bg-purple:hover{
+    background-color: rgb(54, 102, 233);
+}
+.w-23{
+    width: 200px;
+    height: 1px;
+    margin-top: 20px;
+}
+
+
