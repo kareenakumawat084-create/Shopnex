@@ -36,7 +36,7 @@ const Ethnic = () => {
                                     className="border border-success rounded-pill text-bg-green mt-3 ">
                                     <h5 className="ms-2 text-light">4.5</h5>
                                     <img style={{marginTop: "-65px"}}className="ms-5"
-                                        src="/public\images__6_-removebg-preview.png" width="20px"
+                                        src="/images__6_-removebg-preview.png" width="20px"
                                         height="20px"/>
                                 </div>
                         </div>
@@ -62,7 +62,7 @@ const Ethnic = () => {
                                     className="border border-success rounded-pill text-bg-green mt-3 ">
                                     <h5 className="ms-2 text-light">4.0</h5>
                                     <img style={{marginTop: "-65px"}} className="ms-5"
-                                        src="/public\images__6_-removebg-preview.png" width="20px"
+                                        src="/images__6_-removebg-preview.png" width="20px"
                                         height="20px"/>
                                 </div>
                         </div>
@@ -88,7 +88,7 @@ const Ethnic = () => {
                                     className="border border-success rounded-pill text-bg-green mt-3 ">
                                     <h5 className="ms-2 text-light">5.0</h5>
                                     <img style={{marginTop: "-65px"}} className="ms-5"
-                                        src="/public\images__6_-removebg-preview.png" width="20px"
+                                        src="/images__6_-removebg-preview.png" width="20px"
                                         height="20px"/>
                                 </div>
                         </div>
@@ -114,7 +114,7 @@ const Ethnic = () => {
                                     className="border border-success rounded-pill text-bg-green mt-3 ">
                                     <h5 className="ms-2 text-light">4.5</h5>
                                     <img style={{marginTop: "-65px"}} className="ms-5"
-                                        src="/public\images__6_-removebg-preview.png" width="20px"
+                                        src="/images__6_-removebg-preview.png" width="20px"
                                         height="20px"/>
                                 </div>
                         </div>
@@ -144,7 +144,7 @@ const Ethnic = () => {
                                         className="border border-success rounded-pill text-bg-green mt-3 ">
                                         <h5 className="ms-2 text-light">3.5</h5>
                                         <img style={{marginTop: "-65px"}} className="ms-5"
-                                            src="/public\images__6_-removebg-preview.png" width="20px"
+                                            src="/images__6_-removebg-preview.png" width="20px"
                                             height="20px"/>
                                     </div>
                             </div>
@@ -170,7 +170,7 @@ const Ethnic = () => {
                                         className="border border-success rounded-pill text-bg-green mt-3 ">
                                         <h5 className="ms-2 text-light">3.0</h5>
                                         <img style={{marginTop: "-65px"}} className="ms-5"
-                                            src="/public\images__6_-removebg-preview.png" width="20px"
+                                            src="/images__6_-removebg-preview.png" width="20px"
                                             height="20px"/>
                                     </div>
                             </div>
@@ -196,7 +196,7 @@ const Ethnic = () => {
                                         className="border border-success rounded-pill text-bg-green mt-3 ">
                                         <h5 className="ms-2 text-light">4.5</h5>
                                         <img style={{marginTop: "-65px"}} className="ms-5"
-                                            src="/public\images__6_-removebg-preview.png" width="20px"
+                                            src="/images__6_-removebg-preview.png" width="20px"
                                             height="20px"/>
                                     </div>
                             </div>
@@ -221,7 +221,7 @@ const Ethnic = () => {
                                         className="border border-success rounded-pill text-bg-green mt-3 ">
                                         <h5 className="ms-2 text-light">3.5</h5>
                                         <img style={{marginTop: "-65px"}} className="ms-5"
-                                            src="/public\images__6_-removebg-preview.png" width="20px"
+                                            src="/images__6_-removebg-preview.png" width="20px"
                                             height="20px"/>
                                     </div>
                             </div>
@@ -251,7 +251,7 @@ const Ethnic = () => {
                                             className="border border-success rounded-pill text-bg-green mt-3 ">
                                             <h5 className="ms-2 text-light">4.5</h5>
                                             <img style={{marginTop: "-65px"}} className="ms-5"
-                                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                                src="/images__6_-removebg-preview.png" width="20px"
                                                 height="20px"/>
                                         </div>
                                 </div>
@@ -277,7 +277,7 @@ const Ethnic = () => {
                                             className="border border-success rounded-pill text-bg-green mt-3 ">
                                             <h5 className="ms-2 text-light">4.0</h5>
                                             <img style={{marginTop: "-65px"}} className="ms-5"
-                                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                                src="/images__6_-removebg-preview.png" width="20px"
                                                 height="20px"/>
                                         </div>
                                 </div>
@@ -302,7 +302,7 @@ const Ethnic = () => {
                                             className="border border-success rounded-pill text-bg-green mt-3 ">
                                             <h5 className="ms-2 text-light">2.5</h5>
                                             <img style={{marginTop: "-65px"}} className="ms-5"
-                                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                                src="/images__6_-removebg-preview.png" width="20px"
                                                 height="20px"/>
                                         </div>
                                 </div>
@@ -327,7 +327,7 @@ const Ethnic = () => {
                                             className="border border-success rounded-pill text-bg-green mt-3 ">
                                             <h5 className="ms-2 text-light">5.0</h5>
                                             <img style={{marginTop: "-65px"}} className="ms-5"
-                                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                                src="/images__6_-removebg-preview.png" width="20px"
                                                 height="20px"/>
                                         </div>
                                 </div>
@@ -358,7 +358,7 @@ const Ethnic = () => {
                                                 className="border border-success rounded-pill text-bg-green mt-3 ">
                                                 <h5 className="ms-2 text-light">4.5</h5>
                                                 <img style={{marginTop: "-65px"}} className="ms-5"
-                                                    src="/public\images__6_-removebg-preview.png" width="20px"
+                                                    src="/images__6_-removebg-preview.png" width="20px"
                                                     height="20px"/>
                                             </div>
                                     </div>
@@ -384,7 +384,7 @@ const Ethnic = () => {
                                                 className="border border-success rounded-pill text-bg-green mt-3 ">
                                                 <h5 className="ms-2 text-light">4.0</h5>
                                                 <img style={{marginTop: "-65px"}} className="ms-5"
-                                                    src="/public\images__6_-removebg-preview.png" width="20px"
+                                                    src="/images__6_-removebg-preview.png" width="20px"
                                                     height="20px"/>
                                             </div>
                                     </div>
@@ -409,7 +409,7 @@ const Ethnic = () => {
                                                 className="border border-success rounded-pill text-bg-green mt-3 ">
                                                 <h5 className="ms-2 text-light">3.0</h5>
                                                 <img style={{marginTop: "-65px"}} className="ms-5"
-                                                    src="/public\images__6_-removebg-preview.png" width="20px"
+                                                    src="/images__6_-removebg-preview.png" width="20px"
                                                     height="20px"/>
                                             </div>
                                     </div>
@@ -435,7 +435,7 @@ const Ethnic = () => {
                                                 className="border border-success rounded-pill text-bg-green mt-3 ">
                                                 <h5 className="ms-2 text-light">4.5</h5>
                                                 <img style={{marginTop: "-65px"}} className="ms-5"
-                                                    src="/public\images__6_-removebg-preview.png" width="20px"
+                                                    src="/images__6_-removebg-preview.png" width="20px"
                                                     height="20px"/>
                                             </div>
                                     </div>
@@ -466,7 +466,7 @@ const Ethnic = () => {
                                                     className="border border-success rounded-pill text-bg-green mt-3 ">
                                                     <h5 className="ms-2 text-light">4.0</h5>
                                                     <img style={{marginTop: "-65px"}} className="ms-5"
-                                                        src="/public\images__6_-removebg-preview.png" width="20px"
+                                                        src="/images__6_-removebg-preview.png" width="20px"
                                                         height="20px"/>
                                                 </div>
                                         </div>
@@ -491,7 +491,7 @@ const Ethnic = () => {
                                                     className="border border-success rounded-pill text-bg-green mt-3 ">
                                                     <h5 className="ms-2 text-light">4.0</h5>
                                                     <img style={{marginTop: "-65px"}} className="ms-5"
-                                                        src="/public\images__6_-removebg-preview.png" width="20px"
+                                                        src="/images__6_-removebg-preview.png" width="20px"
                                                         height="20px"/>
                                                 </div>
                                         </div>
@@ -516,7 +516,7 @@ const Ethnic = () => {
                                                     className="border border-success rounded-pill text-bg-green mt-3 ">
                                                     <h5 className="ms-2 text-light">4.5</h5>
                                                     <img style={{marginTop: "-65px"}} className="ms-5"
-                                                        src="/public\images__6_-removebg-preview.png" width="20px"
+                                                        src="/images__6_-removebg-preview.png" width="20px"
                                                         height="20px"/>
                                                 </div>
                                         </div>
@@ -541,7 +541,7 @@ const Ethnic = () => {
                                                     className="border border-success rounded-pill text-bg-green mt-3 ">
                                                     <h5 className="ms-2 text-light">5.0</h5>
                                                     <img style={{marginTop: "-65px"}} className="ms-5"
-                                                        src="/public\images__6_-removebg-preview.png" width="20px"
+                                                        src="/images__6_-removebg-preview.png" width="20px"
                                                         height="20px"/>
                                                 </div>
                                         </div>
@@ -572,7 +572,7 @@ const Ethnic = () => {
                                                         className="border border-success rounded-pill text-bg-green mt-3 ">
                                                         <h5 className="ms-2 text-light">3.0</h5>
                                                         <img style={{marginTop: "-65px"}} className="ms-5"
-                                                            src="/public\images__6_-removebg-preview.png" width="20px"
+                                                            src="/images__6_-removebg-preview.png" width="20px"
                                                             height="20px"/>
                                                     </div>
                                             </div>
@@ -598,7 +598,7 @@ const Ethnic = () => {
                                                         className="border border-success rounded-pill text-bg-green mt-3 ">
                                                         <h5 className="ms-2 text-light">4.5</h5>
                                                         <img style={{marginTop: "-65px"}}className="ms-5"
-                                                            src="/public\images__6_-removebg-preview.png" width="20px"
+                                                            src="/images__6_-removebg-preview.png" width="20px"
                                                             height="20px"/>
                                                     </div>
                                             </div>
@@ -624,7 +624,7 @@ const Ethnic = () => {
                                                         className="border border-success rounded-pill text-bg-green mt-3 ">
                                                         <h5 className="ms-2 text-light">4.0</h5>
                                                         <img style={{marginTop: "-65px"}} className="ms-5"
-                                                            src="/public\images__6_-removebg-preview.png" width="20px"
+                                                            src="/images__6_-removebg-preview.png" width="20px"
                                                             height="20px"/>
                                                     </div>
                                             </div>
@@ -650,7 +650,7 @@ const Ethnic = () => {
                                                         className="border border-success rounded-pill text-bg-green mt-3 ">
                                                         <h5 className="ms-2 text-light">5.0</h5>
                                                         <img style={{marginTop: "-65px"}} className="ms-5"
-                                                            src="/public\images__6_-removebg-preview.png" width="20px"
+                                                            src="/images__6_-removebg-preview.png" width="20px"
                                                             height="20px"/>
                                                     </div>
                                             </div>

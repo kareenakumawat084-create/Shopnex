@@ -11,7 +11,7 @@ const Himalaya = () => {
 
             <div>
                 <a className="c1 text-blueviolet text-center" href="#">
-                    <h1 className="fs-27">Plum</h1>
+                    <h1 className="fs-27">Himalaya</h1>
                 </a>
             </div>
             <br />
