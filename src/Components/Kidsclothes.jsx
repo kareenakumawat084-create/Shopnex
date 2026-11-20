@@ -24,7 +24,7 @@ const Kidsclothes = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Kids Birthday Dress</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>800.00</h5>
                         </div>
@@ -36,7 +36,7 @@ const Kidsclothes = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.5</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -51,7 +51,7 @@ const Kidsclothes = () => {
                 Dress</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>900.00</h5>
                         </div>
@@ -63,7 +63,7 @@ const Kidsclothes = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -77,7 +77,7 @@ const Kidsclothes = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Kids Summer Dress</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>600.00</h5>
                         </div>
@@ -89,7 +89,7 @@ const Kidsclothes = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">5.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -103,7 +103,7 @@ const Kidsclothes = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Kids Blue Color Gown</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1100.00</h5>
                         </div>
@@ -115,7 +115,7 @@ const Kidsclothes = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.5</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -133,7 +133,7 @@ const Kidsclothes = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Girls Western Dress</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>2500.00</h5>
                         </div>
@@ -145,7 +145,7 @@ const Kidsclothes = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">3.5</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -159,7 +159,7 @@ const Kidsclothes = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Girls Western Dress</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1000.00</h5>
                         </div>
@@ -171,7 +171,7 @@ const Kidsclothes = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">3.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -185,7 +185,7 @@ const Kidsclothes = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Girls Top & Bottom Set</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>700.00</h5>
                         </div>
@@ -197,7 +197,7 @@ const Kidsclothes = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.5</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -210,7 +210,7 @@ const Kidsclothes = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Western Wear For Girls</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1500.00</h5>
                         </div>
@@ -222,7 +222,7 @@ const Kidsclothes = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">3.5</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -241,7 +241,7 @@ const Kidsclothes = () => {
           Outfit</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>800.00</h5>
                         </div>
@@ -253,7 +253,7 @@ const Kidsclothes = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.5</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -267,7 +267,7 @@ const Kidsclothes = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3"> Girls Traditional Dress</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1600.00</h5>
                         </div>
@@ -279,7 +279,7 @@ const Kidsclothes = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -292,7 +292,7 @@ const Kidsclothes = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Girls Ethnic Wear</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1950.00</h5>
                         </div>
@@ -304,7 +304,7 @@ const Kidsclothes = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">2.5</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -317,7 +317,7 @@ const Kidsclothes = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Anokhi Girls Wear</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>2350.00</h5>
                         </div>
@@ -329,7 +329,7 @@ const Kidsclothes = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">5.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -348,7 +348,7 @@ const Kidsclothes = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Ethnic Wear For Boys</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1050.00</h5>
                         </div>
@@ -360,7 +360,7 @@ const Kidsclothes = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.5</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -374,7 +374,7 @@ const Kidsclothes = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Traditional Boys Dress </h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>900.00</h5>
                         </div>
@@ -386,7 +386,7 @@ const Kidsclothes = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -399,7 +399,7 @@ const Kidsclothes = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Short Boys Kurta</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1100.00</h5>
                         </div>
@@ -411,7 +411,7 @@ const Kidsclothes = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">3.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -425,7 +425,7 @@ const Kidsclothes = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Silk Boys Kurta Pant</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1000.00</h5>
                         </div>
@@ -437,7 +437,7 @@ const Kidsclothes = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.5</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -456,7 +456,7 @@ const Kidsclothes = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Kids Formal Outfit</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1500.00</h5>
                         </div>
@@ -468,7 +468,7 @@ const Kidsclothes = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -481,7 +481,7 @@ const Kidsclothes = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">kids Indo Western</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1200.00</h5>
                         </div>
@@ -493,7 +493,7 @@ const Kidsclothes = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -506,7 +506,7 @@ const Kidsclothes = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Kids Western Wear</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>800.00</h5>
                         </div>
@@ -518,7 +518,7 @@ const Kidsclothes = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.5</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -531,7 +531,7 @@ const Kidsclothes = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Black Color Waistcode</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>700.00</h5>
                         </div>
@@ -543,7 +543,7 @@ const Kidsclothes = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">5.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -562,7 +562,7 @@ const Kidsclothes = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Kids Summer Outfit</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1400.00</h5>
                         </div>
@@ -574,7 +574,7 @@ const Kidsclothes = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">3.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -588,7 +588,7 @@ const Kidsclothes = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Kids Casual Outfit</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>700.00</h5>
                         </div>
@@ -600,7 +600,7 @@ const Kidsclothes = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.5</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -614,7 +614,7 @@ const Kidsclothes = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Kids Summer Wear</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>600.00</h5>
                         </div>
@@ -626,7 +626,7 @@ const Kidsclothes = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -640,7 +640,7 @@ const Kidsclothes = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Oversized Boys Outfit</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>500.00</h5>
                         </div>
@@ -652,7 +652,7 @@ const Kidsclothes = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">5.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>

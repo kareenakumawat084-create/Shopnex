@@ -24,7 +24,7 @@ const Kidstoys = () => {
                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Unbreakable Vehicles</h5>
                                 <div className="d-flex ms-5 gap-0">
                                     <img style={{marginTop: "-3.5px"}}
-                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                        src="/591777-200-removebg-preview.png" width="33px"
                                         height="33px"/>
                                         <h5>800.00</h5>
                                 </div>
@@ -36,7 +36,7 @@ const Kidstoys = () => {
                                     className="border border-success rounded-pill text-bg-green mt-3 ">
                                     <h5 className="ms-2 text-light">4.5</h5>
                                     <img style={{marginTop: "-65px"}}className="ms-5"
-                                        src="/public\images__6_-removebg-preview.png" width="20px"
+                                        src="/images__6_-removebg-preview.png" width="20px"
                                         height="20px"/>
                                 </div>
                         </div>
@@ -50,7 +50,7 @@ const Kidstoys = () => {
                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Soft Toys For Kids</h5>
                                 <div className="d-flex ms-5 gap-0">
                                     <img style={{marginTop: "-3.5px"}}
-                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                        src="/591777-200-removebg-preview.png" width="33px"
                                         height="33px"/>
                                         <h5>900.00</h5>
                                 </div>
@@ -62,7 +62,7 @@ const Kidstoys = () => {
                                     className="border border-success rounded-pill text-bg-green mt-3 ">
                                     <h5 className="ms-2 text-light">4.0</h5>
                                     <img style={{marginTop: "-65px"}} className="ms-5"
-                                        src="/public\images__6_-removebg-preview.png" width="20px"
+                                        src="/images__6_-removebg-preview.png" width="20px"
                                         height="20px"/>
                                 </div>
                         </div>
@@ -76,7 +76,7 @@ const Kidstoys = () => {
                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Handcrafted Toys</h5>
                                 <div className="d-flex ms-5 gap-0">
                                     <img style={{marginTop: "-3.5px"}}
-                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                        src="/591777-200-removebg-preview.png" width="33px"
                                         height="33px"/>
                                         <h5>600.00</h5>
                                 </div>
@@ -88,7 +88,7 @@ const Kidstoys = () => {
                                     className="border border-success rounded-pill text-bg-green mt-3 ">
                                     <h5 className="ms-2 text-light">5.0</h5>
                                     <img style={{marginTop: "-65px"}} className="ms-5"
-                                        src="/public\images__6_-removebg-preview.png" width="20px"
+                                        src="/images__6_-removebg-preview.png" width="20px"
                                         height="20px"/>
                                 </div>
                         </div>
@@ -102,7 +102,7 @@ const Kidstoys = () => {
                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Funblast Plastic Toys</h5>
                                 <div className="d-flex ms-5 gap-0">
                                     <img style={{marginTop: "-3.5px"}}
-                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                        src="/591777-200-removebg-preview.png" width="33px"
                                         height="33px"/>
                                         <h5>1100.00</h5>
                                 </div>
@@ -114,7 +114,7 @@ const Kidstoys = () => {
                                     className="border border-success rounded-pill text-bg-green mt-3 ">
                                     <h5 className="ms-2 text-light">4.5</h5>
                                     <img style={{marginTop: "-65px"}} className="ms-5"
-                                        src="/public\images__6_-removebg-preview.png" width="20px"
+                                        src="/images__6_-removebg-preview.png" width="20px"
                                         height="20px"/>
                                 </div>
                         </div>
@@ -133,7 +133,7 @@ const Kidstoys = () => {
          Kids</h5>
                                     <div className="d-flex ms-5 gap-0">
                                         <img style={{marginTop: "-3.5px"}}
-                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                            src="/591777-200-removebg-preview.png" width="33px"
                                             height="33px"/>
                                             <h5>2500.00</h5>
                                     </div>
@@ -145,7 +145,7 @@ const Kidstoys = () => {
                                         className="border border-success rounded-pill text-bg-green mt-3 ">
                                         <h5 className="ms-2 text-light">3.5</h5>
                                         <img style={{marginTop: "-65px"}} className="ms-5"
-                                            src="/public\images__6_-removebg-preview.png" width="20px"
+                                            src="/images__6_-removebg-preview.png" width="20px"
                                             height="20px"/>
                                     </div>
                             </div>
@@ -160,7 +160,7 @@ const Kidstoys = () => {
  Cactus  Toy</h5>
                                     <div className="d-flex ms-5 gap-0">
                                         <img style={{marginTop: "-3.5px"}}
-                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                            src="/591777-200-removebg-preview.png" width="33px"
                                             height="33px"/>
                                             <h5>1000.00</h5>
                                     </div>
@@ -172,7 +172,7 @@ const Kidstoys = () => {
                                         className="border border-success rounded-pill text-bg-green mt-3 ">
                                         <h5 className="ms-2 text-light">3.0</h5>
                                         <img style={{marginTop: "-65px"}} className="ms-5"
-                                            src="/public\images__6_-removebg-preview.png" width="20px"
+                                            src="/images__6_-removebg-preview.png" width="20px"
                                             height="20px"/>
                                     </div>
                             </div>
@@ -186,7 +186,7 @@ const Kidstoys = () => {
                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Robotics Kits For Kids</h5>
                                     <div className="d-flex ms-5 gap-0">
                                         <img style={{marginTop: "-3.5px"}}
-                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                            src="/591777-200-removebg-preview.png" width="33px"
                                             height="33px"/>
                                             <h5>700.00</h5>
                                     </div>
@@ -198,7 +198,7 @@ const Kidstoys = () => {
                                         className="border border-success rounded-pill text-bg-green mt-3 ">
                                         <h5 className="ms-2 text-light">4.5</h5>
                                         <img style={{marginTop: "-65px"}} className="ms-5"
-                                            src="/public\images__6_-removebg-preview.png" width="20px"
+                                            src="/images__6_-removebg-preview.png" width="20px"
                                             height="20px"/>
                                     </div>
                             </div>
@@ -211,7 +211,7 @@ const Kidstoys = () => {
                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Learning Games Toys</h5>
                                     <div className="d-flex ms-5 gap-0">
                                         <img style={{marginTop: "-3.5px"}}
-                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                            src="/591777-200-removebg-preview.png" width="33px"
                                             height="33px"/>
                                             <h5>1500.00</h5>
                                     </div>
@@ -223,7 +223,7 @@ const Kidstoys = () => {
                                         className="border border-success rounded-pill text-bg-green mt-3 ">
                                         <h5 className="ms-2 text-light">3.5</h5>
                                         <img style={{marginTop: "-65px"}} className="ms-5"
-                                            src="/public\images__6_-removebg-preview.png" width="20px"
+                                            src="/images__6_-removebg-preview.png" width="20px"
                                             height="20px"/>
                                     </div>
                             </div>
@@ -241,7 +241,7 @@ const Kidstoys = () => {
                                         <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Colourblocked  Toys</h5>
                                         <div className="d-flex ms-5 gap-0">
                                             <img style={{marginTop: "-3.5px"}}
-                                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                                src="/591777-200-removebg-preview.png" width="33px"
                                                 height="33px"/>
                                                 <h5>800.00</h5>
                                         </div>
@@ -253,7 +253,7 @@ const Kidstoys = () => {
                                             className="border border-success rounded-pill text-bg-green mt-3 ">
                                             <h5 className="ms-2 text-light">4.5</h5>
                                             <img style={{marginTop: "-65px"}} className="ms-5"
-                                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                                src="/images__6_-removebg-preview.png" width="20px"
                                                 height="20px"/>
                                         </div>
                                 </div>
@@ -267,7 +267,7 @@ const Kidstoys = () => {
                                         <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3"> Rocking Horse For Kids</h5>
                                         <div className="d-flex ms-5 gap-0">
                                             <img style={{marginTop: "-3.5px"}}
-                                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                                src="/591777-200-removebg-preview.png" width="33px"
                                                 height="33px"/>
                                                 <h5>1600.00</h5>
                                         </div>
@@ -279,7 +279,7 @@ const Kidstoys = () => {
                                             className="border border-success rounded-pill text-bg-green mt-3 ">
                                             <h5 className="ms-2 text-light">4.0</h5>
                                             <img style={{marginTop: "-65px"}} className="ms-5"
-                                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                                src="/images__6_-removebg-preview.png" width="20px"
                                                 height="20px"/>
                                         </div>
                                 </div>
@@ -292,7 +292,7 @@ const Kidstoys = () => {
                                         <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Jumbo Elephant Rider</h5>
                                         <div className="d-flex ms-5 gap-0">
                                             <img style={{marginTop: "-3.5px"}}
-                                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                                src="/591777-200-removebg-preview.png" width="33px"
                                                 height="33px"/>
                                                 <h5>1950.00</h5>
                                         </div>
@@ -304,7 +304,7 @@ const Kidstoys = () => {
                                             className="border border-success rounded-pill text-bg-green mt-3 ">
                                             <h5 className="ms-2 text-light">2.5</h5>
                                             <img style={{marginTop: "-65px"}} className="ms-5"
-                                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                                src="/images__6_-removebg-preview.png" width="20px"
                                                 height="20px"/>
                                         </div>
                                 </div>
@@ -317,7 +317,7 @@ const Kidstoys = () => {
                                         <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Doctor Set For Kids</h5>
                                         <div className="d-flex ms-5 gap-0">
                                             <img style={{marginTop: "-3.5px"}}
-                                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                                src="/591777-200-removebg-preview.png" width="33px"
                                                 height="33px"/>
                                                 <h5>2350.00</h5>
                                         </div>
@@ -329,7 +329,7 @@ const Kidstoys = () => {
                                             className="border border-success rounded-pill text-bg-green mt-3 ">
                                             <h5 className="ms-2 text-light">5.0</h5>
                                             <img style={{marginTop: "-65px"}} className="ms-5"
-                                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                                src="/images__6_-removebg-preview.png" width="20px"
                                                 height="20px"/>
                                         </div>
                                 </div>
@@ -348,7 +348,7 @@ const Kidstoys = () => {
                                             <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Play Equipment Toys</h5>
                                             <div className="d-flex ms-5 gap-0">
                                                 <img style={{marginTop: "-3.5px"}}
-                                                    src="/public\591777-200-removebg-preview.png" width="33px"
+                                                    src="/591777-200-removebg-preview.png" width="33px"
                                                     height="33px"/>
                                                     <h5>1050.00</h5>
                                             </div>
@@ -360,7 +360,7 @@ const Kidstoys = () => {
                                                 className="border border-success rounded-pill text-bg-green mt-3 ">
                                                 <h5 className="ms-2 text-light">4.5</h5>
                                                 <img style={{marginTop: "-65px"}} className="ms-5"
-                                                    src="/public\images__6_-removebg-preview.png" width="20px"
+                                                    src="/images__6_-removebg-preview.png" width="20px"
                                                     height="20px"/>
                                             </div>
                                     </div>
@@ -374,7 +374,7 @@ const Kidstoys = () => {
                                             <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Kitchen Set For Kids</h5>
                                             <div className="d-flex ms-5 gap-0">
                                                 <img style={{marginTop: "-3.5px"}}
-                                                    src="/public\591777-200-removebg-preview.png" width="33px"
+                                                    src="/591777-200-removebg-preview.png" width="33px"
                                                     height="33px"/>
                                                     <h5>900.00</h5>
                                             </div>
@@ -386,7 +386,7 @@ const Kidstoys = () => {
                                                 className="border border-success rounded-pill text-bg-green mt-3 ">
                                                 <h5 className="ms-2 text-light">4.0</h5>
                                                 <img style={{marginTop: "-65px"}} className="ms-5"
-                                                    src="/public\images__6_-removebg-preview.png" width="20px"
+                                                    src="/images__6_-removebg-preview.png" width="20px"
                                                     height="20px"/>
                                             </div>
                                     </div>
@@ -399,7 +399,7 @@ const Kidstoys = () => {
                                             <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Paradise Fruits & Veg</h5>
                                             <div className="d-flex ms-5 gap-0">
                                                 <img style={{marginTop: "-3.5px"}}
-                                                    src="/public\591777-200-removebg-preview.png" width="33px"
+                                                    src="/591777-200-removebg-preview.png" width="33px"
                                                     height="33px"/>
                                                     <h5>1100.00</h5>
                                             </div>
@@ -411,7 +411,7 @@ const Kidstoys = () => {
                                                 className="border border-success rounded-pill text-bg-green mt-3 ">
                                                 <h5 className="ms-2 text-light">3.0</h5>
                                                 <img style={{marginTop: "-65px"}} className="ms-5"
-                                                    src="/public\images__6_-removebg-preview.png" width="20px"
+                                                    src="/images__6_-removebg-preview.png" width="20px"
                                                     height="20px"/>
                                             </div>
                                     </div>
@@ -425,7 +425,7 @@ const Kidstoys = () => {
                                             <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Strong Plastic Doll</h5>
                                             <div className="d-flex ms-5 gap-0">
                                                 <img style={{marginTop: "-3.5px"}}
-                                                    src="/public\591777-200-removebg-preview.png" width="33px"
+                                                    src="/591777-200-removebg-preview.png" width="33px"
                                                     height="33px"/>
                                                     <h5>1000.00</h5>
                                             </div>
@@ -437,7 +437,7 @@ const Kidstoys = () => {
                                                 className="border border-success rounded-pill text-bg-green mt-3 ">
                                                 <h5 className="ms-2 text-light">4.5</h5>
                                                 <img style={{marginTop: "-65px"}} className="ms-5"
-                                                    src="/public\images__6_-removebg-preview.png" width="20px"
+                                                    src="/images__6_-removebg-preview.png" width="20px"
                                                     height="20px"/>
                                             </div>
                                     </div>
@@ -456,7 +456,7 @@ const Kidstoys = () => {
                                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Ride With Steering</h5>
                                                 <div className="d-flex ms-5 gap-0">
                                                     <img style={{marginTop: "-3.5px"}}
-                                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                                        src="/591777-200-removebg-preview.png" width="33px"
                                                         height="33px"/>
                                                         <h5>1500.00</h5>
                                                 </div>
@@ -468,7 +468,7 @@ const Kidstoys = () => {
                                                     className="border border-success rounded-pill text-bg-green mt-3 ">
                                                     <h5 className="ms-2 text-light">4.0</h5>
                                                     <img style={{marginTop: "-65px"}} className="ms-5"
-                                                        src="/public\images__6_-removebg-preview.png" width="20px"
+                                                        src="/images__6_-removebg-preview.png" width="20px"
                                                         height="20px"/>
                                                 </div>
                                         </div>
@@ -481,7 +481,7 @@ const Kidstoys = () => {
                                                 <h5 style={{fontWeight: "bolder"}}className="text-secondary text-center mt-3">Crocodile Toys</h5>
                                                 <div className="d-flex ms-5 gap-0">
                                                     <img style={{marginTop: "-3.5px"}}
-                                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                                        src="/591777-200-removebg-preview.png" width="33px"
                                                         height="33px"/>
                                                         <h5>1200.00</h5>
                                                 </div>
@@ -493,7 +493,7 @@ const Kidstoys = () => {
                                                     className="border border-success rounded-pill text-bg-green mt-3 ">
                                                     <h5 className="ms-2 text-light">4.0</h5>
                                                     <img style={{marginTop: "-65px"}} className="ms-5"
-                                                        src="/public\images__6_-removebg-preview.png" width="20px"
+                                                        src="/images__6_-removebg-preview.png" width="20px"
                                                         height="20px"/>
                                                 </div>
                                         </div>
@@ -506,7 +506,7 @@ const Kidstoys = () => {
                                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Cool Aeroplane</h5>
                                                 <div className="d-flex ms-5 gap-0">
                                                     <img style={{marginTop: "-3.5px"}}
-                                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                                        src="/591777-200-removebg-preview.png" width="33px"
                                                         height="33px"/>
                                                         <h5>800.00</h5>
                                                 </div>
@@ -518,7 +518,7 @@ const Kidstoys = () => {
                                                     className="border border-success rounded-pill text-bg-green mt-3 ">
                                                     <h5 className="ms-2 text-light">4.5</h5>
                                                     <img style={{marginTop: "-65px"}} className="ms-5"
-                                                        src="/public\images__6_-removebg-preview.png" width="20px"
+                                                        src="/images__6_-removebg-preview.png" width="20px"
                                                         height="20px"/>
                                                 </div>
                                         </div>
@@ -531,7 +531,7 @@ const Kidstoys = () => {
                                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Backyard & outdoors</h5>
                                                 <div className="d-flex ms-5 gap-0">
                                                     <img style={{marginTop: "-3.5px"}}
-                                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                                        src="/591777-200-removebg-preview.png" width="33px"
                                                         height="33px"/>
                                                         <h5>700.00</h5>
                                                 </div>
@@ -543,7 +543,7 @@ const Kidstoys = () => {
                                                     className="border border-success rounded-pill text-bg-green mt-3 ">
                                                     <h5 className="ms-2 text-light">5.0</h5>
                                                     <img style={{marginTop: "-65px"}} className="ms-5"
-                                                        src="/public\images__6_-removebg-preview.png" width="20px"
+                                                        src="/images__6_-removebg-preview.png" width="20px"
                                                         height="20px"/>
                                                 </div>
                                         </div>
@@ -562,7 +562,7 @@ const Kidstoys = () => {
                                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Home Set Toys</h5>
                                                     <div className="d-flex ms-5 gap-0">
                                                         <img style={{marginTop: "-3.5px"}}
-                                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                                            src="/591777-200-removebg-preview.png" width="33px"
                                                             height="33px"/>
                                                             <h5>1400.00</h5>
                                                     </div>
@@ -574,7 +574,7 @@ const Kidstoys = () => {
                                                         className="border border-success rounded-pill text-bg-green mt-3 ">
                                                         <h5 className="ms-2 text-light">3.0</h5>
                                                         <img style={{marginTop: "-65px"}} className="ms-5"
-                                                            src="/public\images__6_-removebg-preview.png" width="20px"
+                                                            src="/images__6_-removebg-preview.png" width="20px"
                                                             height="20px"/>
                                                     </div>
                                             </div>
@@ -588,7 +588,7 @@ const Kidstoys = () => {
                                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Cute Baby Soft Toy</h5>
                                                     <div className="d-flex ms-5 gap-0">
                                                         <img style={{marginTop: "-3.5px"}}
-                                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                                            src="/591777-200-removebg-preview.png" width="33px"
                                                             height="33px"/>
                                                             <h5>700.00</h5>
                                                     </div>
@@ -600,7 +600,7 @@ const Kidstoys = () => {
                                                         className="border border-success rounded-pill text-bg-green mt-3 ">
                                                         <h5 className="ms-2 text-light">4.5</h5>
                                                         <img style={{marginTop: "-65px"}}className="ms-5"
-                                                            src="/public\images__6_-removebg-preview.png" width="20px"
+                                                            src="/images__6_-removebg-preview.png" width="20px"
                                                             height="20px"/>
                                                     </div>
                                             </div>
@@ -614,7 +614,7 @@ const Kidstoys = () => {
                                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Construction  Toys</h5>
                                                     <div className="d-flex ms-5 gap-0">
                                                         <img style={{marginTop: "-3.5px"}}
-                                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                                            src="/591777-200-removebg-preview.png" width="33px"
                                                             height="33px"/>
                                                             <h5>600.00</h5>
                                                     </div>
@@ -626,7 +626,7 @@ const Kidstoys = () => {
                                                         className="border border-success rounded-pill text-bg-green mt-3 ">
                                                         <h5 className="ms-2 text-light">4.0</h5>
                                                         <img style={{marginTop: "-65px"}} className="ms-5"
-                                                            src="/public\images__6_-removebg-preview.png" width="20px"
+                                                            src="/images__6_-removebg-preview.png" width="20px"
                                                             height="20px"/>
                                                     </div>
                                             </div>
@@ -640,7 +640,7 @@ const Kidstoys = () => {
                                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Learning Toys</h5>
                                                     <div className="d-flex ms-5 gap-0">
                                                         <img style={{marginTop: "-3.5px"}}
-                                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                                            src="/591777-200-removebg-preview.png" width="33px"
                                                             height="33px"/>
                                                             <h5>500.00</h5>
                                                     </div>
@@ -652,7 +652,7 @@ const Kidstoys = () => {
                                                         className="border border-success rounded-pill text-bg-green mt-3 ">
                                                         <h5 className="ms-2 text-light">5.0</h5>
                                                         <img style={{marginTop: "-65px"}} className="ms-5"
-                                                            src="/public\images__6_-removebg-preview.png" width="20px"
+                                                            src="/images__6_-removebg-preview.png" width="20px"
                                                             height="20px"/>
                                                     </div>
                                             </div>

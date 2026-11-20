@@ -24,7 +24,7 @@ const Mobile = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">One Plus Nord 5G</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>800.00</h5>
                         </div>
@@ -36,7 +36,7 @@ const Mobile = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.5</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -50,7 +50,7 @@ const Mobile = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Apple 16 Pro Max</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>900.00</h5>
                         </div>
@@ -62,7 +62,7 @@ const Mobile = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -76,7 +76,7 @@ const Mobile = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">One Plus Smartphone</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>900.00</h5>
                         </div>
@@ -88,7 +88,7 @@ const Mobile = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -104,7 +104,7 @@ const Mobile = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Samsung Galaxy A25</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1100.00</h5>
                         </div>
@@ -116,7 +116,7 @@ const Mobile = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.5</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -134,7 +134,7 @@ const Mobile = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Samsung Galaxy S23</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>2500.00</h5>
                         </div>
@@ -146,7 +146,7 @@ const Mobile = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">3.5</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -160,7 +160,7 @@ const Mobile = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Motorola G45 5G</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1000.00</h5>
                         </div>
@@ -172,7 +172,7 @@ const Mobile = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">3.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -186,7 +186,7 @@ const Mobile = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Motorola Moto G 5G</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>700.00</h5>
                         </div>
@@ -198,7 +198,7 @@ const Mobile = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.5</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -211,7 +211,7 @@ const Mobile = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Xiaomi Redmi Note 10</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1500.00</h5>
                         </div>
@@ -223,7 +223,7 @@ const Mobile = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">3.5</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -241,7 +241,7 @@ const Mobile = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">realme 10 Pro+ 5G</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>800.00</h5>
                         </div>
@@ -253,7 +253,7 @@ const Mobile = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.5</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -267,7 +267,7 @@ const Mobile = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Realme C55 Phone</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1600.00</h5>
                         </div>
@@ -279,7 +279,7 @@ const Mobile = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -292,7 +292,7 @@ const Mobile = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Xiaomi Redmi 13C</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1950.00</h5>
                         </div>
@@ -304,7 +304,7 @@ const Mobile = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">2.5</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -317,7 +317,7 @@ const Mobile = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Samsung Galaxy A15</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>2350.00</h5>
                         </div>
@@ -329,7 +329,7 @@ const Mobile = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">5.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -348,7 +348,7 @@ const Mobile = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">OPPO A16</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1050.00</h5>
                         </div>
@@ -360,7 +360,7 @@ const Mobile = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.5</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -374,7 +374,7 @@ const Mobile = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Oppo a18 </h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>900.00</h5>
                         </div>
@@ -386,7 +386,7 @@ const Mobile = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -399,7 +399,7 @@ const Mobile = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3"> Apple iPhone 13</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1100.00</h5>
                         </div>
@@ -411,7 +411,7 @@ const Mobile = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">3.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -425,7 +425,7 @@ const Mobile = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Apple iPhone 15</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1000.00</h5>
                         </div>
@@ -437,7 +437,7 @@ const Mobile = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.5</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -456,7 +456,7 @@ const Mobile = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Vivo Y27 5G</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1500.00</h5>
                         </div>
@@ -468,7 +468,7 @@ const Mobile = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -481,7 +481,7 @@ const Mobile = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Vivo Y17s</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1200.00</h5>
                         </div>
@@ -493,7 +493,7 @@ const Mobile = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -506,7 +506,7 @@ const Mobile = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">oppo Reno 14 5G</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>800.00</h5>
                         </div>
@@ -518,7 +518,7 @@ const Mobile = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.5</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -531,7 +531,7 @@ const Mobile = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">OPPO Reno 11 Pro</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>700.00</h5>
                         </div>
@@ -543,7 +543,7 @@ const Mobile = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">5.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -562,7 +562,7 @@ const Mobile = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Formal with Pant</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>1400.00</h5>
                         </div>
@@ -574,7 +574,7 @@ const Mobile = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">3.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -588,7 +588,7 @@ const Mobile = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Cocktail Sherwani</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>700.00</h5>
                         </div>
@@ -600,7 +600,7 @@ const Mobile = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.5</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -614,7 +614,7 @@ const Mobile = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3">Traditional Outfit</h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>600.00</h5>
                         </div>
@@ -626,7 +626,7 @@ const Mobile = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">4.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>
@@ -640,7 +640,7 @@ const Mobile = () => {
                         <h5 style={{ fontWeight: "bolder" }} className="text-secondary text-center mt-3"></h5>
                         <div className="d-flex ms-5 gap-0">
                             <img style={{ marginTop: "-3.5px" }}
-                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                src="/591777-200-removebg-preview.png" width="33px"
                                 height="33px" />
                             <h5>500.00</h5>
                         </div>
@@ -652,7 +652,7 @@ const Mobile = () => {
                             className="border border-success rounded-pill text-bg-green mt-3 ">
                             <h5 className="ms-2 text-light">5.0</h5>
                             <img style={{ marginTop: "-65px" }} className="ms-5"
-                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                src="/images__6_-removebg-preview.png" width="20px"
                                 height="20px" />
                         </div>
                     </div>

@@ -24,7 +24,7 @@ const Footwear = () => {
                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Black Strappy Sandals</h5>
                                 <div className="d-flex ms-5 gap-0">
                                     <img style={{marginTop: "-3.5px"}}
-                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                        src="/591777-200-removebg-preview.png" width="33px"
                                         height="33px"/>
                                         <h5>800.00</h5>
                                 </div>
@@ -36,7 +36,7 @@ const Footwear = () => {
                                     className="border border-success rounded-pill text-bg-green mt-3 ">
                                     <h5 className="ms-2 text-light">4.5</h5>
                                     <img style={{marginTop: "-65px"}}className="ms-5"
-                                        src="/public\images__6_-removebg-preview.png" width="20px"
+                                        src="/images__6_-removebg-preview.png" width="20px"
                                         height="20px"/>
                                 </div>
                         </div>
@@ -50,7 +50,7 @@ const Footwear = () => {
                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">T-Straps Party Wear</h5>
                                 <div className="d-flex ms-5 gap-0">
                                     <img style={{marginTop: "-3.5px"}}
-                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                        src="/591777-200-removebg-preview.png" width="33px"
                                         height="33px"/>
                                         <h5>900.00</h5>
                                 </div>
@@ -62,7 +62,7 @@ const Footwear = () => {
                                     className="border border-success rounded-pill text-bg-green mt-3 ">
                                     <h5 className="ms-2 text-light">4.0</h5>
                                     <img style={{marginTop: "-65px"}} className="ms-5"
-                                        src="/public\images__6_-removebg-preview.png" width="20px"
+                                        src="/images__6_-removebg-preview.png" width="20px"
                                         height="20px"/>
                                 </div>
                         </div>
@@ -76,7 +76,7 @@ const Footwear = () => {
                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Black Heels Sandals</h5>
                                 <div className="d-flex ms-5 gap-0">
                                     <img style={{marginTop: "-3.5px"}}
-                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                        src="/591777-200-removebg-preview.png" width="33px"
                                         height="33px"/>
                                         <h5>600.00</h5>
                                 </div>
@@ -88,7 +88,7 @@ const Footwear = () => {
                                     className="border border-success rounded-pill text-bg-green mt-3 ">
                                     <h5 className="ms-2 text-light">5.0</h5>
                                     <img style={{marginTop: "-65px"}} className="ms-5"
-                                        src="/public\images__6_-removebg-preview.png" width="20px"
+                                        src="/images__6_-removebg-preview.png" width="20px"
                                         height="20px"/>
                                 </div>
                         </div>
@@ -102,7 +102,7 @@ const Footwear = () => {
                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Party Wear High Heels</h5>
                                 <div className="d-flex ms-5 gap-0">
                                     <img style={{marginTop: "-3.5px"}}
-                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                        src="/591777-200-removebg-preview.png" width="33px"
                                         height="33px"/>
                                         <h5>1100.00</h5>
                                 </div>
@@ -114,7 +114,7 @@ const Footwear = () => {
                                     className="border border-success rounded-pill text-bg-green mt-3 ">
                                     <h5 className="ms-2 text-light">4.5</h5>
                                     <img style={{marginTop: "-65px"}} className="ms-5"
-                                        src="/public\images__6_-removebg-preview.png" width="20px"
+                                        src="/images__6_-removebg-preview.png" width="20px"
                                         height="20px"/>
                                 </div>
                         </div>
@@ -132,7 +132,7 @@ const Footwear = () => {
                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Comfortable Sandals</h5>
                                     <div className="d-flex ms-5 gap-0">
                                         <img style={{marginTop: "-3.5px"}}
-                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                            src="/591777-200-removebg-preview.png" width="33px"
                                             height="33px"/>
                                             <h5>2500.00</h5>
                                     </div>
@@ -144,7 +144,7 @@ const Footwear = () => {
                                         className="border border-success rounded-pill text-bg-green mt-3 ">
                                         <h5 className="ms-2 text-light">3.5</h5>
                                         <img style={{marginTop: "-65px"}} className="ms-5"
-                                            src="/public\images__6_-removebg-preview.png" width="20px"
+                                            src="/images__6_-removebg-preview.png" width="20px"
                                             height="20px"/>
                                     </div>
                             </div>
@@ -158,7 +158,7 @@ const Footwear = () => {
                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Waterproof Clog Shoes</h5>
                                     <div className="d-flex ms-5 gap-0">
                                         <img style={{marginTop: "-3.5px"}}
-                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                            src="/591777-200-removebg-preview.png" width="33px"
                                             height="33px"/>
                                             <h5>1000.00</h5>
                                     </div>
@@ -170,7 +170,7 @@ const Footwear = () => {
                                         className="border border-success rounded-pill text-bg-green mt-3 ">
                                         <h5 className="ms-2 text-light">3.0</h5>
                                         <img style={{marginTop: "-65px"}} className="ms-5"
-                                            src="/public\images__6_-removebg-preview.png" width="20px"
+                                            src="/images__6_-removebg-preview.png" width="20px"
                                             height="20px"/>
                                     </div>
                             </div>
@@ -184,7 +184,7 @@ const Footwear = () => {
                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Casual Sandals</h5>
                                     <div className="d-flex ms-5 gap-0">
                                         <img style={{marginTop: "-3.5px"}}
-                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                            src="/591777-200-removebg-preview.png" width="33px"
                                             height="33px"/>
                                             <h5>700.00</h5>
                                     </div>
@@ -196,7 +196,7 @@ const Footwear = () => {
                                         className="border border-success rounded-pill text-bg-green mt-3 ">
                                         <h5 className="ms-2 text-light">4.5</h5>
                                         <img style={{marginTop: "-65px"}} className="ms-5"
-                                            src="/public\images__6_-removebg-preview.png" width="20px"
+                                            src="/images__6_-removebg-preview.png" width="20px"
                                             height="20px"/>
                                     </div>
                             </div>
@@ -209,7 +209,7 @@ const Footwear = () => {
                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Party Wear Sandals</h5>
                                     <div className="d-flex ms-5 gap-0">
                                         <img style={{marginTop: "-3.5px"}}
-                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                            src="/591777-200-removebg-preview.png" width="33px"
                                             height="33px"/>
                                             <h5>1500.00</h5>
                                     </div>
@@ -221,7 +221,7 @@ const Footwear = () => {
                                         className="border border-success rounded-pill text-bg-green mt-3 ">
                                         <h5 className="ms-2 text-light">3.5</h5>
                                         <img style={{marginTop: "-65px"}} className="ms-5"
-                                            src="/public\images__6_-removebg-preview.png" width="20px"
+                                            src="/images__6_-removebg-preview.png" width="20px"
                                             height="20px"/>
                                     </div>
                             </div>
@@ -239,7 +239,7 @@ const Footwear = () => {
                                         <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Designer  Sandals</h5>
                                         <div className="d-flex ms-5 gap-0">
                                             <img style={{marginTop: "-3.5px"}}
-                                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                                src="/591777-200-removebg-preview.png" width="33px"
                                                 height="33px"/>
                                                 <h5>800.00</h5>
                                         </div>
@@ -251,7 +251,7 @@ const Footwear = () => {
                                             className="border border-success rounded-pill text-bg-green mt-3 ">
                                             <h5 className="ms-2 text-light">4.5</h5>
                                             <img style={{marginTop: "-65px"}} className="ms-5"
-                                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                                src="/images__6_-removebg-preview.png" width="20px"
                                                 height="20px"/>
                                         </div>
                                 </div>
@@ -265,7 +265,7 @@ const Footwear = () => {
                                         <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3"> Golden Sandals</h5>
                                         <div className="d-flex ms-5 gap-0">
                                             <img style={{marginTop: "-3.5px"}}
-                                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                                src="/591777-200-removebg-preview.png" width="33px"
                                                 height="33px"/>
                                                 <h5>1600.00</h5>
                                         </div>
@@ -277,7 +277,7 @@ const Footwear = () => {
                                             className="border border-success rounded-pill text-bg-green mt-3 ">
                                             <h5 className="ms-2 text-light">4.0</h5>
                                             <img style={{marginTop: "-65px"}} className="ms-5"
-                                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                                src="/images__6_-removebg-preview.png" width="20px"
                                                 height="20px"/>
                                         </div>
                                 </div>
@@ -290,7 +290,7 @@ const Footwear = () => {
                                         <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Beige Beach Flats</h5>
                                         <div className="d-flex ms-5 gap-0">
                                             <img style={{marginTop: "-3.5px"}}
-                                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                                src="/591777-200-removebg-preview.png" width="33px"
                                                 height="33px"/>
                                                 <h5>1950.00</h5>
                                         </div>
@@ -302,7 +302,7 @@ const Footwear = () => {
                                             className="border border-success rounded-pill text-bg-green mt-3 ">
                                             <h5 className="ms-2 text-light">2.5</h5>
                                             <img style={{marginTop: "-65px"}} className="ms-5"
-                                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                                src="/images__6_-removebg-preview.png" width="20px"
                                                 height="20px"/>
                                         </div>
                                 </div>
@@ -315,7 +315,7 @@ const Footwear = () => {
                                         <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Black Heels stylish</h5>
                                         <div className="d-flex ms-5 gap-0">
                                             <img style={{marginTop: "-3.5px"}}
-                                                src="/public\591777-200-removebg-preview.png" width="33px"
+                                                src="/591777-200-removebg-preview.png" width="33px"
                                                 height="33px"/>
                                                 <h5>2350.00</h5>
                                         </div>
@@ -327,7 +327,7 @@ const Footwear = () => {
                                             className="border border-success rounded-pill text-bg-green mt-3 ">
                                             <h5 className="ms-2 text-light">5.0</h5>
                                             <img style={{marginTop: "-65px"}} className="ms-5"
-                                                src="/public\images__6_-removebg-preview.png" width="20px"
+                                                src="/images__6_-removebg-preview.png" width="20px"
                                                 height="20px"/>
                                         </div>
                                 </div>
@@ -346,7 +346,7 @@ const Footwear = () => {
                                             <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Formal Men Shoes</h5>
                                             <div className="d-flex ms-5 gap-0">
                                                 <img style={{marginTop: "-3.5px"}}
-                                                    src="/public\591777-200-removebg-preview.png" width="33px"
+                                                    src="/591777-200-removebg-preview.png" width="33px"
                                                     height="33px"/>
                                                     <h5>1050.00</h5>
                                             </div>
@@ -358,7 +358,7 @@ const Footwear = () => {
                                                 className="border border-success rounded-pill text-bg-green mt-3 ">
                                                 <h5 className="ms-2 text-light">4.5</h5>
                                                 <img style={{marginTop: "-65px"}} className="ms-5"
-                                                    src="/public\images__6_-removebg-preview.png" width="20px"
+                                                    src="/images__6_-removebg-preview.png" width="20px"
                                                     height="20px"/>
                                             </div>
                                     </div>
@@ -372,7 +372,7 @@ const Footwear = () => {
                                             <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Winter Men Shoes</h5>
                                             <div className="d-flex ms-5 gap-0">
                                                 <img style={{marginTop: "-3.5px"}}
-                                                    src="/public\591777-200-removebg-preview.png" width="33px"
+                                                    src="/591777-200-removebg-preview.png" width="33px"
                                                     height="33px"/>
                                                     <h5>900.00</h5>
                                             </div>
@@ -384,7 +384,7 @@ const Footwear = () => {
                                                 className="border border-success rounded-pill text-bg-green mt-3 ">
                                                 <h5 className="ms-2 text-light">4.0</h5>
                                                 <img style={{marginTop: "-65px"}} className="ms-5"
-                                                    src="/public\images__6_-removebg-preview.png" width="20px"
+                                                    src="/images__6_-removebg-preview.png" width="20px"
                                                     height="20px"/>
                                             </div>
                                     </div>
@@ -397,7 +397,7 @@ const Footwear = () => {
                                             <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3"> Leather Brown Shoes</h5>
                                             <div className="d-flex ms-5 gap-0">
                                                 <img style={{marginTop: "-3.5px"}}
-                                                    src="/public\591777-200-removebg-preview.png" width="33px"
+                                                    src="/591777-200-removebg-preview.png" width="33px"
                                                     height="33px"/>
                                                     <h5>1100.00</h5>
                                             </div>
@@ -409,7 +409,7 @@ const Footwear = () => {
                                                 className="border border-success rounded-pill text-bg-green mt-3 ">
                                                 <h5 className="ms-2 text-light">3.0</h5>
                                                 <img style={{marginTop: "-65px"}} className="ms-5"
-                                                    src="/public\images__6_-removebg-preview.png" width="20px"
+                                                    src="/images__6_-removebg-preview.png" width="20px"
                                                     height="20px"/>
                                             </div>
                                     </div>
@@ -423,7 +423,7 @@ const Footwear = () => {
                                             <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Ballerina  Shoes</h5>
                                             <div className="d-flex ms-5 gap-0">
                                                 <img style={{marginTop: "-3.5px"}}
-                                                    src="/public\591777-200-removebg-preview.png" width="33px"
+                                                    src="/591777-200-removebg-preview.png" width="33px"
                                                     height="33px"/>
                                                     <h5>1000.00</h5>
                                             </div>
@@ -435,7 +435,7 @@ const Footwear = () => {
                                                 className="border border-success rounded-pill text-bg-green mt-3 ">
                                                 <h5 className="ms-2 text-light">4.5</h5>
                                                 <img style={{marginTop: "-65px"}} className="ms-5"
-                                                    src="/public\images__6_-removebg-preview.png" width="20px"
+                                                    src="/images__6_-removebg-preview.png" width="20px"
                                                     height="20px"/>
                                             </div>
                                     </div>
@@ -454,7 +454,7 @@ const Footwear = () => {
                                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Kids Shoes With Light</h5>
                                                 <div className="d-flex ms-5 gap-0">
                                                     <img style={{marginTop: "-3.5px"}}
-                                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                                        src="/591777-200-removebg-preview.png" width="33px"
                                                         height="33px"/>
                                                         <h5>1500.00</h5>
                                                 </div>
@@ -466,7 +466,7 @@ const Footwear = () => {
                                                     className="border border-success rounded-pill text-bg-green mt-3 ">
                                                     <h5 className="ms-2 text-light">4.0</h5>
                                                     <img style={{marginTop: "-65px"}} className="ms-5"
-                                                        src="/public\images__6_-removebg-preview.png" width="20px"
+                                                        src="/images__6_-removebg-preview.png" width="20px"
                                                         height="20px"/>
                                                 </div>
                                         </div>
@@ -479,7 +479,7 @@ const Footwear = () => {
                                                 <h5 style={{fontWeight: "bolder"}}className="text-secondary text-center mt-3">Pink Shoes For Kids</h5>
                                                 <div className="d-flex ms-5 gap-0">
                                                     <img style={{marginTop: "-3.5px"}}
-                                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                                        src="/591777-200-removebg-preview.png" width="33px"
                                                         height="33px"/>
                                                         <h5>1200.00</h5>
                                                 </div>
@@ -491,7 +491,7 @@ const Footwear = () => {
                                                     className="border border-success rounded-pill text-bg-green mt-3 ">
                                                     <h5 className="ms-2 text-light">4.0</h5>
                                                     <img style={{marginTop: "-65px"}} className="ms-5"
-                                                        src="/public\images__6_-removebg-preview.png" width="20px"
+                                                        src="/images__6_-removebg-preview.png" width="20px"
                                                         height="20px"/>
                                                 </div>
                                         </div>
@@ -504,7 +504,7 @@ const Footwear = () => {
                                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Red Shoes Stylish</h5>
                                                 <div className="d-flex ms-5 gap-0">
                                                     <img style={{marginTop: "-3.5px"}}
-                                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                                        src="/591777-200-removebg-preview.png" width="33px"
                                                         height="33px"/>
                                                         <h5>800.00</h5>
                                                 </div>
@@ -516,7 +516,7 @@ const Footwear = () => {
                                                     className="border border-success rounded-pill text-bg-green mt-3 ">
                                                     <h5 className="ms-2 text-light">4.5</h5>
                                                     <img style={{marginTop: "-65px"}} className="ms-5"
-                                                        src="/public\images__6_-removebg-preview.png" width="20px"
+                                                        src="/images__6_-removebg-preview.png" width="20px"
                                                         height="20px"/>
                                                 </div>
                                         </div>
@@ -529,7 +529,7 @@ const Footwear = () => {
                                                 <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Leather Shoes For Kids</h5>
                                                 <div className="d-flex ms-5 gap-0">
                                                     <img style={{marginTop: "-3.5px"}}
-                                                        src="/public\591777-200-removebg-preview.png" width="33px"
+                                                        src="/591777-200-removebg-preview.png" width="33px"
                                                         height="33px"/>
                                                         <h5>700.00</h5>
                                                 </div>
@@ -541,7 +541,7 @@ const Footwear = () => {
                                                     className="border border-success rounded-pill text-bg-green mt-3 ">
                                                     <h5 className="ms-2 text-light">5.0</h5>
                                                     <img style={{marginTop: "-65px"}} className="ms-5"
-                                                        src="/public\images__6_-removebg-preview.png" width="20px"
+                                                        src="/images__6_-removebg-preview.png" width="20px"
                                                         height="20px"/>
                                                 </div>
                                         </div>
@@ -560,7 +560,7 @@ const Footwear = () => {
                                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Kids Shoes  White</h5>
                                                     <div className="d-flex ms-5 gap-0">
                                                         <img style={{marginTop: "-3.5px"}}
-                                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                                            src="/591777-200-removebg-preview.png" width="33px"
                                                             height="33px"/>
                                                             <h5>1400.00</h5>
                                                     </div>
@@ -572,7 +572,7 @@ const Footwear = () => {
                                                         className="border border-success rounded-pill text-bg-green mt-3 ">
                                                         <h5 className="ms-2 text-light">3.0</h5>
                                                         <img style={{marginTop: "-65px"}} className="ms-5"
-                                                            src="/public\images__6_-removebg-preview.png" width="20px"
+                                                            src="/images__6_-removebg-preview.png" width="20px"
                                                             height="20px"/>
                                                     </div>
                                             </div>
@@ -586,7 +586,7 @@ const Footwear = () => {
                                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Designer Kids Shoes</h5>
                                                     <div className="d-flex ms-5 gap-0">
                                                         <img style={{marginTop: "-3.5px"}}
-                                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                                            src="/591777-200-removebg-preview.png" width="33px"
                                                             height="33px"/>
                                                             <h5>700.00</h5>
                                                     </div>
@@ -598,7 +598,7 @@ const Footwear = () => {
                                                         className="border border-success rounded-pill text-bg-green mt-3 ">
                                                         <h5 className="ms-2 text-light">4.5</h5>
                                                         <img style={{marginTop: "-65px"}}className="ms-5"
-                                                            src="/public\images__6_-removebg-preview.png" width="20px"
+                                                            src="/images__6_-removebg-preview.png" width="20px"
                                                             height="20px"/>
                                                     </div>
                                             </div>
@@ -612,7 +612,7 @@ const Footwear = () => {
                                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Pink Sandals For Girls</h5>
                                                     <div className="d-flex ms-5 gap-0">
                                                         <img style={{marginTop: "-3.5px"}}
-                                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                                            src="/591777-200-removebg-preview.png" width="33px"
                                                             height="33px"/>
                                                             <h5>600.00</h5>
                                                     </div>
@@ -624,7 +624,7 @@ const Footwear = () => {
                                                         className="border border-success rounded-pill text-bg-green mt-3 ">
                                                         <h5 className="ms-2 text-light">4.0</h5>
                                                         <img style={{marginTop: "-65px"}} className="ms-5"
-                                                            src="/public\images__6_-removebg-preview.png" width="20px"
+                                                            src="/images__6_-removebg-preview.png" width="20px"
                                                             height="20px"/>
                                                     </div>
                                             </div>
@@ -638,7 +638,7 @@ const Footwear = () => {
                                                     <h5 style={{fontWeight: "bolder"}} className="text-secondary text-center mt-3">Kids Daily Sleeper</h5>
                                                     <div className="d-flex ms-5 gap-0">
                                                         <img style={{marginTop: "-3.5px"}}
-                                                            src="/public\591777-200-removebg-preview.png" width="33px"
+                                                            src="/591777-200-removebg-preview.png" width="33px"
                                                             height="33px"/>
                                                             <h5>500.00</h5>
                                                     </div>
@@ -650,7 +650,7 @@ const Footwear = () => {
                                                         className="border border-success rounded-pill text-bg-green mt-3 ">
                                                         <h5 className="ms-2 text-light">5.0</h5>
                                                         <img style={{marginTop: "-65px"}} className="ms-5"
-                                                            src="/public\images__6_-removebg-preview.png" width="20px"
+                                                            src="/images__6_-removebg-preview.png" width="20px"
                                                             height="20px"/>
                                                     </div>
                                             </div>
